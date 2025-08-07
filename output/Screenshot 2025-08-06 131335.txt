@@ -1,0 +1,1 @@
+TWO-STEP AUTHENTICATION REQUIRED FOR COMPLETE WIPE OF DATABASE. REQUIRES CUSTOM PASSWORD AND BASIC AUTHENTICATION Clear all files from database, including the entire history of upscaled images, extracted text and datatable images. Authorization Basic Auth Username <username> Password {{vault:user_pass}} 
